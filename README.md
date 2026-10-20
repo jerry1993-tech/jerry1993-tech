@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://github.com/jerry1993-tech"><img alt="GitHub: jerry1993-tech" src="https://img.shields.io/badge/GitHub-jerry1993--tech-0B1220?style=flat-square&logo=github&logoColor=D4A24C"></a>
   <img alt="Focus: LLM and Agents" src="https://img.shields.io/badge/Focus-LLM%20%26%20Agents-1F2937?style=flat-square&labelColor=0B1220">
+  <a href="https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese"><img alt="Cornucopia stars" src="https://img.shields.io/github/stars/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese?style=flat-square&label=Cornucopia%20stars&color=A9791E&labelColor=0B1220"></a>
   <img alt="Based in Norway" src="https://img.shields.io/badge/Based%20in-Norway-2A7F75?style=flat-square&labelColor=0B1220">
 </p>
 
