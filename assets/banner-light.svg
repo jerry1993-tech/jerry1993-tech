@@ -1,0 +1,78 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Cornucopia.AI — AI Full-Stack Engineer</title>
+  <desc id="desc">Light profile banner for Cornucopia.AI, AI Full-Stack Engineer, focused on LLM, Agents, and Agentic RL.</desc>
+  <defs>
+    <linearGradient id="bg" x1="40" y1="0" x2="1240" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FCF9F3"/>
+      <stop offset="1" stop-color="#F1E9D9"/>
+    </linearGradient>
+    <radialGradient id="goldGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1050 80) rotate(90) scale(330 420)">
+      <stop stop-color="#C08A2E" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#C08A2E" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tealGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(140 360) rotate(-40) scale(300 460)">
+      <stop stop-color="#0F766E" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#0F766E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldName" x1="0" y1="160" x2="0" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9A94E"/>
+      <stop offset="0.55" stop-color="#B4861E"/>
+      <stop offset="1" stop-color="#8A5E12"/>
+    </linearGradient>
+    <linearGradient id="goldMark" x1="0" y1="140" x2="0" y2="285" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0B35C"/>
+      <stop offset="0.5" stop-color="#B4861E"/>
+      <stop offset="1" stop-color="#83580F"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#6B5B36" fill-opacity="0.10"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1280" height="360" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="360" fill="url(#bg)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+    <rect width="1280" height="360" fill="url(#goldGlow)"/>
+    <rect width="1280" height="360" fill="url(#tealGlow)"/>
+    <rect x="1" y="1" width="1278" height="358" rx="21" stroke="#A9791E" stroke-opacity="0.25" stroke-width="2"/>
+
+    <line x1="84" y1="64" x2="1196" y2="64" stroke="#121826" stroke-opacity="0.10"/>
+    <text x="84" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="4.5" fill="#8A7A58">CORNUCOPIA</text>
+    <text x="1196" y="50" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="2.5" fill="#8A7A58">GITHUB.COM/JERRY1993-TECH</text>
+
+    <text x="84" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="5.5" fill="#9A6A12">AI FULL-STACK ENGINEER</text>
+    <text x="82" y="224" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="84" font-weight="700" letter-spacing="-1.5" fill="#121826">Cornucopia<tspan fill="url(#goldName)">.AI</tspan></text>
+    <line x1="84" y1="252" x2="160" y2="252" stroke="#B4861E" stroke-width="3" stroke-linecap="round"/>
+    <text x="84" y="300" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="400" fill="#556070">LLM<tspan fill="#9A6A12"> · </tspan>Agents<tspan fill="#9A6A12"> · </tspan>Agentic RL</text>
+    <text x="84" y="334" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="3" fill="#9A8A6A">OPEN-SOURCE SYSTEMS, BUILT TO SHIP</text>
+
+    <g>
+      <circle cx="1040" cy="205" r="150" stroke="#A9791E" stroke-opacity="0.12"/>
+      <circle cx="1040" cy="205" r="150" stroke="#A9791E" stroke-opacity="0.50" stroke-linecap="round" stroke-dasharray="150 792" transform="rotate(-42 1040 205)"/>
+      <circle cx="1040" cy="205" r="118" stroke="#A9791E" stroke-opacity="0.30"/>
+      <circle cx="1040" cy="205" r="118" stroke="#0F766E" stroke-opacity="0.55" stroke-linecap="round" stroke-dasharray="74 667" transform="rotate(128 1040 205)"/>
+      <circle cx="1040" cy="205" r="90" stroke="#121826" stroke-opacity="0.08"/>
+      <circle cx="1040" cy="205" r="90" fill="#A9791E" fill-opacity="0.035"/>
+
+      <g stroke="#A9791E" stroke-opacity="0.60" stroke-linecap="round">
+        <line x1="1040" y1="47" x2="1040" y2="59"/>
+        <line x1="1040" y1="345" x2="1040" y2="357"/>
+        <line x1="882" y1="205" x2="894" y2="205"/>
+        <line x1="1186" y1="205" x2="1198" y2="205"/>
+      </g>
+
+      <circle cx="1130" cy="93" r="5" fill="#B4861E"/>
+      <circle cx="950" cy="317" r="3.5" fill="#0F766E"/>
+      <circle cx="1143" cy="245" r="3" fill="#D9A94E"/>
+      <circle cx="937" cy="165" r="2.5" fill="#8A94A6"/>
+
+      <text x="1040" y="207" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="146" fill="url(#goldMark)">C</text>
+
+      <path d="M1196 110 l4.5 11 11 4.5 -11 4.5 -4.5 11 -4.5 -11 -11 -4.5 11 -4.5z" fill="#B4861E" fill-opacity="0.8"/>
+      <circle cx="894" cy="93" r="2" fill="#8A94A6"/>
+    </g>
+  </g>
+</svg>
