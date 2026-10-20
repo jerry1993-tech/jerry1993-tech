@@ -118,12 +118,12 @@ I'm an **AI Full-Stack Engineer** working across the LLM stack: post-training, a
   </picture>
 </div>
 
-## Let's connect
+## Open to collaborate
 
 If you're working on LLM agents, post-training, or vertical-domain models, I'd be glad to compare notes.
 
 <p align="center">
-  <a href="https://github.com/jerry1993-tech"><img alt="Follow on GitHub" src="https://img.shields.io/badge/Follow%20on-GitHub-0B1220?style=for-the-badge&logo=github&logoColor=D4A24C"></a>
+  <a href="https://github.com/jerry1993-tech?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/Explore-Repositories-0B1220?style=for-the-badge&logo=github&logoColor=D4A24C"></a>
 </p>
 
 <p align="center"><sub>Thanks for stopping by.</sub></p>
