@@ -10,7 +10,6 @@
   <a href="https://github.com/jerry1993-tech"><img alt="GitHub: jerry1993-tech" src="https://img.shields.io/badge/GitHub-jerry1993--tech-0B1220?style=flat-square&logo=github&logoColor=D4A24C"></a>
   <img alt="Focus: LLM and Agents" src="https://img.shields.io/badge/Focus-LLM%20%26%20Agents-1F2937?style=flat-square&labelColor=0B1220">
   <img alt="Based in Norway" src="https://img.shields.io/badge/Based%20in-Norway-2A7F75?style=flat-square&labelColor=0B1220">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=jerry1993-tech&label=Profile%20views&color=A9791E&style=flat-square">
 </p>
 
 <p align="center">
@@ -105,8 +104,8 @@ I'm an **AI Full-Stack Engineer** working across the LLM stack: post-training, a
     <img width="48%" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=jerry1993-tech&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&title_color=9A6A12&icon_color=9A6A12&text_color=556070&bg_color=FCF9F3">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry1993-tech&layout=compact&langs_count=8&hide_title=true&hide_border=true&title_color=D4A24C&text_color=9CA3AF&bg_color=0B1220">
-    <img width="48%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry1993-tech&layout=compact&langs_count=8&hide_title=true&hide_border=true&title_color=9A6A12&text_color=556070&bg_color=FCF9F3">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry1993-tech&layout=compact&langs_count=4&hide_title=true&hide_border=true&title_color=D4A24C&text_color=9CA3AF&bg_color=0B1220">
+    <img width="48%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry1993-tech&layout=compact&langs_count=4&hide_title=true&hide_border=true&title_color=9A6A12&text_color=556070&bg_color=FCF9F3">
   </picture>
 </p>
 
