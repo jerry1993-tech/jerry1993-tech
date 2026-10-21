@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-yuanbao.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-yuanbao.svg">
-    <img src="assets/banner-light-yuanbao.svg" alt="Cornucopia.AI — AI Full-Stack Engineer. LLM, Agents, Agentic RL. A golden bowl filled with yuanbao." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-ding.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-ding.svg">
+    <img src="assets/banner-light-ding.svg" alt="Cornucopia.AI — AI Full-Stack Engineer. LLM, Agents, Agentic RL. A golden Chinese ding." width="100%">
   </picture>
 </div>
 
