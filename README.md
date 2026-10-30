@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/jerry1993-tech"><img alt="GitHub: jerry1993-tech" src="https://img.shields.io/badge/GitHub-jerry1993--tech-0B1220?style=flat-square&logo=github&logoColor=D4A24C"></a>
+  <a href="https://jerry1993-tech.github.io"><img alt="Website: jerry1993-tech.github.io" src="https://img.shields.io/badge/Website-jerry1993--tech.github.io-2A7F75?style=flat-square&logo=googlechrome&logoColor=D4A24C&labelColor=0B1220"></a>
   <img alt="Focus: LLM and Agents" src="https://img.shields.io/badge/Focus-LLM%20%26%20Agents-1F2937?style=flat-square&labelColor=0B1220">
   <a href="https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese"><img alt="Cornucopia stars" src="https://img.shields.io/github/stars/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese?style=flat-square&label=Cornucopia%20stars&color=A9791E&labelColor=0B1220"></a>
   <img alt="Based in Norway" src="https://img.shields.io/badge/Based%20in-Norway-2A7F75?style=flat-square&labelColor=0B1220">
@@ -24,6 +25,7 @@ I'm an **AI Full-Stack Engineer** working across the LLM stack: post-training, a
 - **Building** [Cornucopia](https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese) — an open-source Chinese financial LLM series and a lightweight vertical-domain training stack (pretraining → SFT → RLHF → quantization).
 - **Exploring** agentic RL with GRPO, multi-turn tool use, sandboxed execution, and execution-verified rewards.
 - **Designing** production-grade multi-agent architectures, collaboration patterns, and workflow engines.
+- **Website:** [jerry1993-tech.github.io](https://jerry1993-tech.github.io).
 - **Based in Norway** · open to collaboration and AI engineering opportunities.
 
 ## Focus
